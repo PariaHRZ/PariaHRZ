@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PariaHRZ
 - 👀 About me
 - 🌱 I’m currently working on Faxia.
-- 💞️ I’m currently learning Java Development
+- 💞️ I’m currently learning Java Development, Phyton, Php, C-Sharp
 - 📫 Discord: paria_hrz
 - ⚡ minecraft developer and configurator
