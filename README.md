@@ -5,6 +5,7 @@ Salut, je suis @PariaHRZ!
 ## 🌟 À propos de moi :
 
 Je suis passionné par la cybersécurité et le développement logiciel, et je me concentre actuellement sur des projets passionnants comme Faxia.
+Je suis actuellement en Bac pro cybersécurité, informatique et réseaux, électronique (CIEL)
 
 ## 📘 En train d'apprendre :
 
