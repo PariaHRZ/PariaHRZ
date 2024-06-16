@@ -16,4 +16,6 @@ Discord : paria_hrz
 
 ## ⚡ Fun fact :
 
-Je suis passionné par le développement et la configuration dans l'univers Minecraft.
+- Je suis en train de créer un Hub de Ressources en Cybersécurité ! Un repository dédié à rassembler toutes mes ressources personnelles, notes et outils liés à différents aspects de la cybersécurité, incluant l'OSINT (Open Source Intelligence), les tests de pénétration, les attaques par force brute, et plus encore. L'objectif est de créer un référentiel centralisé pour un accès et une consultation faciles.
+
+- Je suis passionné par le développement et la configuration dans l'univers Minecraft.
