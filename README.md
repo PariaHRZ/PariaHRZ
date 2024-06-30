@@ -1,6 +1,9 @@
 # 👤 À Propos de Moi
 
-Salut, je suis @PariaHRZ!
+
+Salut, je suis <a href="https://discordapp.com/users/633695329841184788">
+    @PariaHRZ
+</a>!
 
 ## 🌟 À propos de moi :
 
@@ -13,7 +16,11 @@ Je suis en train d'apprendre la cybersécurité ainsi que Java, Python, PHP et C
 
 ## 📫 Contact :
 
-Discord : paria_hrz
+<a href="https://discordapp.com/users/633695329841184788">
+    <img src="https://github.com/PariaHRZ/PariaHRZ/assets/167918126/c082e65d-713e-4d31-be0a-f32e64b4a50c" alt="Image" width="200"/>
+</a>
+
+
 
 ## ⚡ Fun fact :
 
