@@ -20,12 +20,21 @@ Je suis en train d'apprendre la cybersécurité ainsi que Java, Python, PHP et C
     <img src="https://github.com/PariaHRZ/PariaHRZ/assets/167918126/c082e65d-713e-4d31-be0a-f32e64b4a50c" alt="Image" width="200"/>
 </a>
 
-## ⚡ Fun fact :
-
-- Je suis en train de créer un Hub de Ressources en Cybersécurité ! Un repository dédié à rassembler toutes mes ressources personnelles, notes et outils liés à différents aspects de la cybersécurité, incluant l'OSINT (Open Source Intelligence), les tests de pénétration, les attaques par force brute, et plus encore. L'objectif est de créer un référentiel centralisé pour un accès et une consultation faciles.
-
-- Je suis passionné par le développement et la configuration dans l'univers Minecraft.
 
 ## 🛡️ TryHackMe :
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/PariaHRZ.png" alt="Your Image Badge" />
+
+## ⚡ Fun fact :
+
+- Je suis en train de créer un Hub de Ressources en Cybersécurité ! Un repository dédié à rassembler toutes mes ressources personnelles, notes et outils liés à différents aspects de la cybersécurité, incluant l'OSINT (Open Source Intelligence), les tests de pénétration, les attaques par force brute, et plus encore. L'objectif est de créer un référentiel centralisé pour un accès et une consultation faciles.
+
+# Certifications
+
+## Cisco Networking Academy - Introduction to Cybersecurity
+- **Obtenu** : Mars 2025
+- **Délivré par** : [Cisco Networking Academy](https://www.netacad.com)
+- **Description** : Formation gratuite couvrant les bases de la cybersécurité, des réseaux et des menaces sur les systèmes d'information.
+- **Certificat** : [Voir le certificat en ligne](https://www.credly.com/badges/a13c4fd0-fc4c-4af7-8011-dd38bcd18077/public_url)
+- ![Certification Cisco](URL_de_l_image_de_ta_certification)![Uploading ciscoyIntroductionToCybersecurity.png…]()
+
