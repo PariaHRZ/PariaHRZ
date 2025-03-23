@@ -36,5 +36,5 @@ Je suis en train d'apprendre la cybersécurité ainsi que Java, Python, PHP et C
 - **Délivré par** : [Cisco Networking Academy](https://www.netacad.com)
 - **Description** : Formation gratuite couvrant les bases de la cybersécurité, des réseaux et des menaces sur les systèmes d'information.
 - **Certificat** : [Voir le certificat en ligne](https://www.credly.com/badges/a13c4fd0-fc4c-4af7-8011-dd38bcd18077/public_url)
-- ![Certification Cisco](URL_de_l_image_de_ta_certification)![Uploading ciscoyIntroductionToCybersecurity.png…]()
+- ![Certification Cisco](<img src="https://raw.githubusercontent.com/PariaHRZ/PariaHRZ/refs/heads/main/ciscoyIntroductionToCybersecurity.png" width="300" alt="Certification Cisco">)
 
