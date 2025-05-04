@@ -5,6 +5,7 @@ Salut, je suis <a href="https://discordapp.com/users/633695329841184788">
 </a>!
 
 Github Stats
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true&theme=dark"
@@ -12,12 +13,14 @@ Github Stats
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true" />
 </picture>
+
 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=PariaHRZ)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PariaHRZ&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 À propos de moi :
 
