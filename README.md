@@ -18,12 +18,12 @@ Salut, je suis <a href="https://discordapp.com/users/633695329841184788">
 
 ## 🌟 À propos de moi :
 
-Je suis passionné par la cybersécurité et le développement logiciel, et je me concentre actuellement sur des projets passionnants.
+Je suis passionné par la cybersécurité, et je me concentre actuellement sur des projets passionnants.
 Je suis actuellement en Bac pro cybersécurité, informatique et réseaux, électronique (CIEL)
 
 ## 📘 En train d'apprendre :
 
-Je suis en train d'apprendre la cybersécurité ainsi que Java, Python, PHP et C# pour la cybersécurité et le développement logiciel.
+Je suis en train d'apprendre la cybersécurité ainsi que HTML, CSS, JavaScript, PHP, Python.
 
 ## 📫 Contact :
 
