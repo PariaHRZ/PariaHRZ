@@ -1,9 +1,20 @@
 # 👤 À Propos de Moi
 
-
 Salut, je suis <a href="https://discordapp.com/users/633695329841184788">
     @PariaHRZ
 </a>!
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true" />
+</picture>
 
 ## 🌟 À propos de moi :
 
@@ -37,5 +48,3 @@ Je suis en train d'apprendre la cybersécurité ainsi que Java, Python, PHP et C
 - **Description** : Formation gratuite couvrant les bases de la cybersécurité, des réseaux et des menaces sur les systèmes d'information.
 - **Profil du Certificat Credly** : [Voir le profil Credly](https://www.credly.com/badges/a13c4fd0-fc4c-4af7-8011-dd38bcd18077/public_url)
 - **Certificat en ligne** : [Voir le certificat en ligne](https://raw.githubusercontent.com/PariaHRZ/PariaHRZ/refs/heads/main/ciscoyIntroductionToCybersecurity.png)
-
-
