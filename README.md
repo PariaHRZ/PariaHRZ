@@ -4,8 +4,6 @@ Salut, je suis <a href="https://discordapp.com/users/633695329841184788">
     @PariaHRZ
 </a>!
 
-Github Stats
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true&theme=dark"
@@ -17,10 +15,6 @@ Github Stats
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PariaHRZ&show_icons=true" />
 </picture>
-
-Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PariaHRZ&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 À propos de moi :
 
