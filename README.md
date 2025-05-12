@@ -36,9 +36,32 @@ Je suis en train d'apprendre la cybersécurité ainsi que HTML, CSS, JavaScript,
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/PariaHRZ.png" alt="Your Image Badge" />
 
-## ⚡ Fun fact :
+## 🚀 Dépôts publics :
 
-- Je suis en train de créer un Hub de Ressources en Cybersécurité ! Un repository dédié à rassembler toutes mes ressources personnelles, notes et outils liés à différents aspects de la cybersécurité, incluant l'OSINT (Open Source Intelligence), les tests de pénétration, les attaques par force brute, et plus encore. L'objectif est de créer un référentiel centralisé pour un accès et une consultation faciles.
+### 🌐 [Web Crawler (Python)](https://github.com/PariaHRZ/web-crawler)
+
+Un petit crawler web écrit en Python. Il explore une URL de départ, visite plusieurs pages, extrait tous les liens HTML (`<a href="...">`) valides, et les enregistre automatiquement dans un fichier texte daté.
+
+- **Fonctionnalités** : Exploration, extraction de liens, sauvegarde dans un fichier `.txt`.
+- **Technologies** : Python, BeautifulSoup, Requests.
+
+---
+
+### 📝 [Bloc-Note en Ligne](https://github.com/PariaHRZ/bloc-notes)
+
+Un petit projet de bloc-notes en ligne permettant d'écrire et d'exporter des notes au format `.txt`. Réalisé dans le cadre d'un projet rapide au lycée.
+
+- **Fonctionnalités** : Crée et édite des notes, exporte au format `.txt`.
+- **Technologies** : HTML, CSS, JavaScript.
+
+---
+
+### ☁️ [GCloud Connexion – Démo Éducative](https://github.com/PariaHRZ/gcloud-login)
+
+Ce projet est une fausse page de connexion GCloud à but strictement pédagogique. Il sert à montrer comment collecter certaines données côté client (navigateur, IP, géo) et les envoyer à un webhook Discord.
+
+- **Fonctionnalités** : Simulation d’une page de connexion pour collecter des données.
+- **Technologies** : HTML, JavaScript, Webhooks Discord.
 
 # Certifications
 
