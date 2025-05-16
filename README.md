@@ -61,7 +61,7 @@ Un petit projet de bloc-notes en ligne permettant d'écrire et d'exporter des no
 Ce projet est une fausse page de connexion GCloud à but strictement pédagogique. Il sert à montrer comment collecter certaines données côté client (navigateur, IP, géo) et les envoyer à un webhook Discord.
 
 - **Fonctionnalités** : Simulation d’une page de connexion pour collecter des données.
-- **Technologies** : HTML, JavaScript, Webhooks Discord.
+- **Technologies** : HTML, CSS, JavaScript, Webhooks Discord.
 
 # Certifications
 
