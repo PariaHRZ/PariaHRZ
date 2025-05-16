@@ -1,6 +1,6 @@
 # 👤 À Propos de Moi
 
-Salut, je suis <a href="https://discordapp.com/users/633695329841184788">
+Salut, je suis <a href="https://discordapp.com/users/633695329841184788" target="_blank">
     @PariaHRZ
 </a>!
 
@@ -27,7 +27,7 @@ Je suis en train d'apprendre la cybersécurité ainsi que HTML, CSS, JavaScript,
 
 ## 📫 Contact :
 
-<a href="https://discordapp.com/users/633695329841184788">
+<a href="https://discordapp.com/users/633695329841184788" target="_blank">
     <img src="https://github.com/PariaHRZ/PariaHRZ/assets/167918126/c082e65d-713e-4d31-be0a-f32e64b4a50c" alt="Image" width="200"/>
 </a>
 
